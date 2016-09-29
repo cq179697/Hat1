@@ -1,0 +1,10 @@
+C:\Users\cq179697\Documents\Visual Studio 2013\Projects\hack\hack\bin\Debug\hack.exe.config
+C:\Users\cq179697\Documents\Visual Studio 2013\Projects\hack\hack\bin\Debug\hack.exe
+C:\Users\cq179697\Documents\Visual Studio 2013\Projects\hack\hack\bin\Debug\hack.pdb
+C:\Users\cq179697\Documents\Visual Studio 2013\Projects\hack\hack\bin\Debug\hack.xml
+C:\Users\cq179697\Documents\Visual Studio 2013\Projects\hack\hack\obj\Debug\hack.Form1.resources
+C:\Users\cq179697\Documents\Visual Studio 2013\Projects\hack\hack\obj\Debug\hack.Resources.resources
+C:\Users\cq179697\Documents\Visual Studio 2013\Projects\hack\hack\obj\Debug\hack.vbproj.GenerateResource.Cache
+C:\Users\cq179697\Documents\Visual Studio 2013\Projects\hack\hack\obj\Debug\hack.exe
+C:\Users\cq179697\Documents\Visual Studio 2013\Projects\hack\hack\obj\Debug\hack.xml
+C:\Users\cq179697\Documents\Visual Studio 2013\Projects\hack\hack\obj\Debug\hack.pdb
